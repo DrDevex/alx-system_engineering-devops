@@ -1,3 +1,2 @@
-#!/bin/bashh
-0 string SCHOOL school data
-!:mime school
+#!/bin/bash
+\n0 string SCHOOL school data\n! :mime school
