@@ -1,0 +1,2 @@
+#!/bils -th
+ls -t | head -10
